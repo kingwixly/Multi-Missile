@@ -1,0 +1,10 @@
+A huge thank you to everyone who made this mod possible.
+Developers:
+- Me (Dani): Primary modeling, textures, Blender & modeling troubleshooting.
+- JustJ: Developed in-game portion of the mod
+
+Contributors:
+- Timothy Samedov (Modeler, donated 3M22 Zircon. Check out the (paid) model here: https://www.fab.com/listings/634e25ab-c7b9-4cc1-a3b1-f505753d9b4c)
+- Shuya (Modeler, donated AGM-84K. Check out the (paid) model here: https://www.cgtrader.com/3d-models/military/rocketry/agm-84h-k-slamer-air-to-ground-missile
+- 'YOUSEF-HAMEED' (Modeler, the free AIM-9M missile's model page can be found here: https://www.cgtrader.com/free-3d-models/military/rocketry/air-to-air-missile-aim-9)  
+- Anonymous donor (Modeler, donated R-27ER and K-30 model)
