@@ -5,7 +5,7 @@ Multi-Missile is released!
 # Dependencies:
 [Blueprinter](https://github.com/nikkorap/NOBlueprinter-Releases/releases/latest) - Latest 
 
-Currently contains:
+## Currently contains:
 - AGM-84K SLAM-ER with ATA
 - 3M22 Zircon
 - 3N22 Zircon 250kt (event content)
