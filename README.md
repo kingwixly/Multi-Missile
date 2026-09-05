@@ -1,6 +1,6 @@
 # Multi-Missile
-Multi-Missile, also known as Multi-Missile Addon Pack, is my personal addition of several missiles, real and fictional, to Nuclear Option. Missile statistics are highly accurate, but still balanced enough to be playable.
-Multi-Missile is not currently publicly released. The mod is still in the works, but expect a release in the coming few days.
+Multi-Missile, also known as Multi-Missile Addon Pack, is my personal addition of several missiles, real and fictional, to Nuclear Option. Missile statistics are accurate and semi-realistic, but still balanced enough to be playable.
+Multi-Missile is released!
 # Dependencies:
 [Blueprinter](https://github.com/nikkorap/NOBlueprinter-Releases/releases/latest) - Latest 
 
@@ -72,4 +72,5 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 - RayTheon(X) AGM-65 Maverick
 - Lockheed AGM-114 Hellfire
 
-Version 1.0.0
+
+### Version 1.0.0
