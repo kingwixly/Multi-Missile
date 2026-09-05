@@ -1,7 +1,7 @@
 # Multi-Missile
-Multi-Missile, also known as Multi-Missile Addon Pack, is my personal addition of several missiles, real and fictional, to Nuclear Option. Missile statistics are accurate and semi-realistic, but still balanced enough to be playable.
-Ever thought NO doesn't have enough missiles and weapons, even with current custom weapon mods? This mod aims to add tons of new missiles, ranging from short-range general-purpose missiles launched by small reconnaissance helicopters to long-range, hypersonic cruise missiles launched from a bomber.
-Multi-Missile is released!
+Multi-Missile, also known as Multi-Missile Addon Pack, is my personal addition of several missiles, real and fictional, to Nuclear Option. Missile statistics are accurate and semi-realistic, but still balanced enough to be playable.<br>
+Ever thought NO doesn't have enough missiles and weapons, even with current custom weapon mods? This mod aims to add tons of new missiles, ranging from short-range general-purpose missiles launched by small reconnaissance helicopters to long-range, hypersonic cruise missiles launched from a bomber.<br>
+Multi-Missile is released!<br>
 Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 # Dependencies:
 [Blueprinter](https://github.com/nikkorap/NOBlueprinter-Releases/releases/latest) - Latest 
