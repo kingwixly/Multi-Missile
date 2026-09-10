@@ -53,7 +53,7 @@ AIM-160X SADM:
 The SADM is a long-range, kinetic interception and assault missile used in anti-aircraft roles. It is renowned for its cheap price, low weight, tiny size, and high speed profile. It is capable of near mach-3 flight, and can be fired in devastating barrages. Aside from this, it features a unique dual-mode seeker that primarily uses ARH, but switches to an IR fallback if the target is in range and still can be targeted to avoid complete loss of targets.
 
 R-27ER:
-An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's radar for SARH interception and assault. It's older but more cost-effective than missiles like the Scrimtar and AMRAAM.
+An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's radar for SARH interception and assault. It's older but more cost-effective than missiles like the Scrimtar and AMRAAM. [SARH CURRENTLY IN TESTING, FOR PLACEHOLDER PURPOSES THE MISSILE IS ARH. PLEASE BARE WITH US AND DO NOT OPEN ISSUES ON THIS TOPIC.]
 
 ## Future Roadmap
 - Rafael Python 5
