@@ -13,7 +13,7 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.justj7780.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.2";
 
         internal static ManualLogSource Log;
         private Harmony harmony;
@@ -28,7 +28,7 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
 
         // Hello whoever you are looking into the code small disclaimer from me justj
         // i wired up the entire mod for the author for free
-        // any models were provided to me by the auther under the confirmation all licenses were in order
+        // any models were provided to me by the author under the confirmation all licenses were in order
         // for any model issues please contact the github user that posted this mod
         // for a more in depth disclaimer please decompile the nobp file
         // thank you for reading and have a nice day :)
