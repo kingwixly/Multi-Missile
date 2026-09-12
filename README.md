@@ -74,5 +74,13 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 - RayTheon(X) AGM-65 Maverick
 - Lockheed AGM-114 Hellfire
 
-
-### Version 1.0.1
+### Version 1.0.2
+Special thanks:
+- JustJ (doing all of the C# and Unity work so I don't have to and not accepting pay)
+- Nikkorap (made Blueprinter and is a cool person)
+- 7ep3s (idk i caused him to go mentally insane like twice which is more than i shouldve so i think im gonna put him here | dani makes 7ep3s mad counter: 2)
+- Aryx (inspired like all of my mods. except for the idea and models of multimissile, multimissile is older than aryx weapon pack i swear)
+- Roxx (mental support completely unrelated to multimissile from when i was trying to learn unity to do things myself)
+- MinecrackTyler (existing)
+- Our beta testers (for testing the betas... obviously)
+- You! (for making this possible)
