@@ -56,7 +56,7 @@ GBU-38 JDAM (Mk82) 500lb:
 An older American 500lb (230kg) guided munition designed for mission use. Surprisingly, it is still relevant today.
 
 R-27ER:
-An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's radar for SARH interception and assault. It's older but more cost-effective than missiles like the Scrimtar and AMRAAM. [SARH CURRENTLY IN TESTING, FOR PLACEHOLDER PURPOSES THE MISSILE IS ARH. PLEASE BARE WITH US AND DO NOT OPEN ISSUES ON THIS TOPIC.]
+An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's radar for SARH interception and assault. It's older but more cost-effective than missiles like the Scrimtar and AMRAAM.
 
 ## Future Roadmap
 - Rafael Python 5
