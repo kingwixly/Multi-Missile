@@ -74,7 +74,9 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 - RayTheon(X) AGM-65 Maverick
 - Lockheed AGM-114 Hellfire
 
-### Version 1.0.2
+### Notice: Multi-Missile will now use SemVer (semitic versioning)
+Version `1.1.0` - `א.א.נ` 
+
 Special thanks:
 - JustJ (doing all of the C# and Unity work so I don't have to and not accepting pay)
 - Nikkorap (made Blueprinter and is a cool person)
