@@ -78,7 +78,7 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 - Lockheed AGM-114 Hellfire
 
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
-Version `1.1.2` - `א.א.ב` 
+Version `1.1.3` - `א.א.ג` 
 
 Special thanks:
 - JustJ (doing all of the C# and Unity work so I don't have to and not accepting pay)
