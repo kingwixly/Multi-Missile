@@ -13,7 +13,12 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.justj7780.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.2.0";
+        public const string PluginVersion = "1.2.1";
+
+        // Changed every x.*.x
+        public const string VersionCodename = "MIDWEST_INDIGO";
+        /* you make me sad and second-guess myself
+        you can be so cold, midwest indigo */
 
         internal static ManualLogSource Log;
         private Harmony harmony;
@@ -23,7 +28,7 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
             Log = Logger;
             harmony = new Harmony(PluginGuid);
             harmony.PatchAll();
-            Log.LogInfo("Multi Missile Patches loaded.");
+            Log.LogInfo("Multi Missile Patches " + PluginVersion + " \"" + VersionCodename + "\" loaded.");
         }
 
         // Hello whoever you are looking into the code small disclaimer from me justj
