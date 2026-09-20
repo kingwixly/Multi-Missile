@@ -13,7 +13,7 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.justj7780.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.1.4";
+        public const string PluginVersion = "1.2.0";
 
         internal static ManualLogSource Log;
         private Harmony harmony;
