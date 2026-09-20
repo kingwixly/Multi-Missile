@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please search [existing issues](../../issues?q=is%3Aissue) first. If yours is
+        Please search [existing issues](https://github.com/kingwixly/Multi-Missile/issues) first. If yours is
         already open, comment there instead of opening a duplicate.
 
   - type: input

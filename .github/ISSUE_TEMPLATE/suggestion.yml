@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please search [existing issues](../../issues?q=is%3Aissue) first: popular
+        Please search [existing issues](https://github.com/kingwixly/Multi-Missile/issues) first: popular
         missiles get requested more than once.
 
   - type: dropdown
