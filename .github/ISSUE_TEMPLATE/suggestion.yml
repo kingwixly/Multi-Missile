@@ -1,0 +1,85 @@
+name: Suggestion
+description: Request a new missile, a change to an existing one, or a feature
+title: "[Suggestion] "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search [existing issues](../../issues?q=is%3Aissue) first: popular
+        missiles get requested more than once.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of suggestion?
+      options:
+        - New missile
+        - Change to an existing missile
+        - New feature or system
+        - Quality of life / config option
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: mm-version
+    attributes:
+      label: Multi-Missile version you are on
+      placeholder: "1.1.0"
+
+  - type: input
+    id: designation
+    attributes:
+      label: Missile designation
+      description: Real-world name, for a new missile or a change to one.
+      placeholder: "IRIS-T, MBDA Meteor, AGM-88G"
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What are you suggesting?
+      description: Describe the missile, change, or feature, and what it would add to the mod.
+    validations:
+      required: true
+
+  - type: textarea
+    id: role
+    attributes:
+      label: Role and niche
+      description: >
+        What does this cover that the current roster does not? Short-range IR,
+        long-range active radar, anti-ship, standoff land attack, anti-radiation.
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Reference data and sources
+      description: >
+        Public figures help a lot: range, speed, seeker type, warhead, launch
+        platforms. Links to manufacturer pages or reference sites are ideal.
+    validations:
+      required: true
+
+  - type: textarea
+    id: carriers
+    attributes:
+      label: Which aircraft should carry it?
+      description: Base-game or modded aircraft, and roughly how many per pylon.
+
+  - type: textarea
+    id: extras
+    attributes:
+      label: Anything else?
+      description: Mockups, comparable in-game weapons, balance concerns, prior art in other mods.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: This is a real-world service weapon, or I explained above why it fits anyway.

@@ -1,0 +1,128 @@
+name: Sound Bug
+description: Missing, wrong, looping, or mistimed audio
+title: "[Sound] "
+labels: ["bug", "sound", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search [existing issues](../../issues?q=is%3Aissue) first. If yours is
+        already open, comment there instead of opening a duplicate.
+
+  - type: input
+    id: mm-version
+    attributes:
+      label: Multi-Missile version
+      placeholder: "1.1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: no-version
+    attributes:
+      label: Nuclear Option version
+      description: Shown in the corner of the main menu.
+      placeholder: "0.34.2"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install-method
+    attributes:
+      label: How did you install Multi-Missile?
+      options:
+        - NOMM (Nuclear Option Mod Manager)
+        - Manual (dropped into BepInEx/plugins)
+        - Built from source
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: input
+    id: affected-missiles
+    attributes:
+      label: Affected missile(s)
+      placeholder: "AIM-9X"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: sound-type
+    attributes:
+      label: Which sound?
+      options:
+        - Launch / motor ignition
+        - Motor burn loop
+        - Seeker tone / lock tone
+        - Impact / detonation
+        - Cockpit or UI cue
+        - Other (describe below)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: symptom
+    attributes:
+      label: What is wrong with it?
+      options:
+        - Missing entirely
+        - Wrong sound plays
+        - Loops or never stops
+        - Cuts off early
+        - Mistimed against the visual
+        - Wrong volume
+        - Wrong 3D position / not spatialized
+        - Other (describe below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Describe it
+      description: What you heard, and what you expected to hear.
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Spawn as ... with ... on the rails
+        2. Fire at ... from ... km
+        3. Listen for ...
+    validations:
+      required: true
+
+  - type: input
+    id: audio-setup
+    attributes:
+      label: Audio setup
+      description: Output device and any non-default in-game audio settings.
+      placeholder: "Headphones, stereo, master 80%"
+
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods installed
+      description: List every other plugin and its version, or write "none".
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log output
+      description: Paste or attach BepInEx/LogOutput.log from the run where this happened.
+      render: shell
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: I am on the latest release of Multi-Missile, or explained above why I am not.
+          required: true

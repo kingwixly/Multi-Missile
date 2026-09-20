@@ -1,0 +1,133 @@
+name: Logic Bug
+description: Guidance, seeker, fuzing, damage, loadout, or UI logic misbehaving
+title: "[Logic] "
+labels: ["bug", "logic", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this for things that are wrong in code rather than wrong in feel:
+        bad guidance math, seekers tracking the wrong thing, fuzes not arming,
+        wrong stats in the Encyclopedia, exceptions in the log.
+
+  - type: input
+    id: mm-version
+    attributes:
+      label: Multi-Missile version
+      placeholder: "1.1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: no-version
+    attributes:
+      label: Nuclear Option version
+      description: Shown in the corner of the main menu.
+      placeholder: "0.34.2"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install-method
+    attributes:
+      label: How did you install Multi-Missile?
+      options:
+        - NOMM (Nuclear Option Mod Manager)
+        - Manual (dropped into BepInEx/plugins)
+        - Built from source
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: input
+    id: affected-missiles
+    attributes:
+      label: Affected missile(s)
+      placeholder: "Storm Shadow"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: subsystem
+    attributes:
+      label: Which subsystem?
+      options:
+        - Guidance / midcourse
+        - Seeker / lock / tracking
+        - Fuzing / arming / detonation
+        - Warhead / damage
+        - Loadout, pylons, or rails
+        - Encyclopedia entry or stats display
+        - Networking / multiplayer desync
+        - Unhandled exception in the log
+        - Other (describe below)
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Include numbers where you have them: ranges, speeds, altitudes, timings.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should it have done?
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Spawn as ... with ... on the rails
+        2. Fire at ... from ... km, ... m altitude
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: consistency
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Most attempts
+        - Occasionally
+        - Happened once
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods installed
+      description: List every other plugin and its version, or write "none".
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log output
+      description: >
+        Paste or attach BepInEx/LogOutput.log. Stack traces are the single most
+        useful thing you can give us here.
+      render: shell
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: I am on the latest release of Multi-Missile, or explained above why I am not.
+          required: true
+        - label: I reproduced this with Multi-Missile as the only plugin installed.

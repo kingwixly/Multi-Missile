@@ -1,0 +1,105 @@
+name: Gameplay Bug
+description: Flight, launch, or combat behavior that feels wrong or broken
+title: "[Gameplay] "
+labels: ["bug", "gameplay", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please search [existing issues](../../issues?q=is%3Aissue) first. If yours is
+        already open, comment there instead of opening a duplicate.
+
+  - type: input
+    id: mm-version
+    attributes:
+      label: Multi-Missile version
+      placeholder: "1.1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: no-version
+    attributes:
+      label: Nuclear Option version
+      description: Shown in the corner of the main menu.
+      placeholder: "0.34.2"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install-method
+    attributes:
+      label: How did you install Multi-Missile?
+      options:
+        - NOMM (Nuclear Option Mod Manager)
+        - Manual (dropped into BepInEx/plugins)
+        - Built from source
+        - Other / not sure
+    validations:
+      required: true
+
+  - type: input
+    id: affected-missiles
+    attributes:
+      label: Affected missile(s)
+      description: Leave blank if this is not specific to one weapon.
+      placeholder: "AIM-120D, R-27ER"
+
+  - type: input
+    id: aircraft
+    attributes:
+      label: Aircraft and loadout
+      placeholder: "FS-12 Revoker, 4x AIM-120D on inner pylons"
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Spawn as ... with ... on the rails
+        2. Fire at ... from ... km
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods installed
+      description: List every other plugin and its version, or write "none".
+      placeholder: |
+        - CustomWeapons-Updated 1.0.0
+        - NucleaRT 0.2.1
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log output
+      description: Paste or attach BepInEx/LogOutput.log from the run where this happened.
+      render: shell
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: I am on the latest release of Multi-Missile, or explained above why I am not.
+          required: true

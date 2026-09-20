@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and general discussion
+    url: https://github.com/kingwixly/Multi-Missile/discussions
+    about: Not sure it is a bug? Ask here first.
+  - name: Installation help
+    url: https://github.com/kingwixly/Multi-Missile#installation
+    about: Read the install steps before filing an issue about the mod not loading.

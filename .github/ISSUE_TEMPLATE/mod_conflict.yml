@@ -1,0 +1,121 @@
+name: Mod Conflict
+description: Multi-Missile breaks another mod, or another mod breaks Multi-Missile
+title: "[Conflict] "
+labels: ["bug", "mod-conflict", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before filing: confirm the problem goes away when Multi-Missile is the only
+        plugin in BepInEx/plugins. If it does not, file a Gameplay or Logic report instead.
+
+  - type: input
+    id: mm-version
+    attributes:
+      label: Multi-Missile version
+      placeholder: "1.1.0"
+    validations:
+      required: true
+
+  - type: input
+    id: no-version
+    attributes:
+      label: Nuclear Option version
+      description: Shown in the corner of the main menu.
+      placeholder: "0.34.2"
+    validations:
+      required: true
+
+  - type: input
+    id: bepinex-version
+    attributes:
+      label: BepInEx version
+      placeholder: "5.4.22"
+    validations:
+      required: true
+
+  - type: input
+    id: other-mod
+    attributes:
+      label: Conflicting mod and version
+      placeholder: "CustomWeapons-Updated 1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: other-mod-link
+    attributes:
+      label: Link to the conflicting mod
+      placeholder: "https://github.com/..."
+
+  - type: dropdown
+    id: direction
+    attributes:
+      label: Which side breaks?
+      options:
+        - Multi-Missile stops working
+        - The other mod stops working
+        - Both break
+        - The game fails to load entirely
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happens with both installed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: isolation
+    attributes:
+      label: What happens with each installed alone?
+      description: Confirm both mods behave correctly on their own.
+      placeholder: |
+        Multi-Missile alone: fine
+        Other mod alone: fine
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+
+  - type: textarea
+    id: full-mod-list
+    attributes:
+      label: Full plugin list
+      description: Everything in BepInEx/plugins, with versions.
+      placeholder: |
+        - Multi-Missile 1.1.0
+        - CustomWeapons-Updated 1.0.0
+        - NucleaRT 0.2.1
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log output
+      description: >
+        Paste or attach BepInEx/LogOutput.log from a run with both mods installed.
+        Harmony patch collisions and load-order errors show up here.
+      render: shell
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues and this is not a duplicate.
+          required: true
+        - label: I confirmed both mods work correctly on their own.
+          required: true
+        - label: Both mods are on their latest release, or I explained above why not.
+          required: true
