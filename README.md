@@ -92,6 +92,7 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 - Lockheed AGM-114 Hellfire
 
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
+The game devs tell me that MultiMissile's versioning scheme is confusing, and that I should use "Semitic Versioning" instead. So starting with MultiMissile version `א.א.נ`, package versions will use Hebrew Numerals.
 Version `1.2.0` - `א.ב.נ` 
 
 Special thanks:
