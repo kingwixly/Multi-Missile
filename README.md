@@ -19,6 +19,8 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 - AIM-160X SADM (CUDA)
 - AM39E Exocet
 - ATMACA-AL
+- MBDA METEOR
+- IRIS-T
 
 ## Encyclopedia/InGame Definitions:
 
@@ -48,6 +50,18 @@ A legacy ARH missile, much larger in size than the Scrimtar and Scythe missiles,
 
 AIM-120D AMRAAM (reverse):
 Although less conventional, the Boscali defense ministry also created an aft-facing modified AIM-120D. This is primarily recommended for launch at low speeds for targets on the aircraft's rear, but can technically be launched fine by fast-flying aircraft due to the sheer acceleration of the AIM-120D.
+
+[CLASSIFIED]:
+TEXT REDACTED
+
+[CLASSIFIED]:
+TEXT REDACTED
+
+MBDA METEOR:
+The MBDA METEOR is an ultra long-range advanced ARH air-to-air missile. Although previously nearly phased out six times in its lifetime, many nations had nothing to replace it with due to its stealthy, long-range design. It is still in use in the early 2080s, and it rivals the AMRAAM nearly exclusively because of its stealth.
+
+IRIS-T:
+The IRIS-T (also known as AIM-2000) is a premier, compact, high performance combat air-to-air missile. It performs highly, it is incredibly quick, and it is exceptionally maneuverable. Its flare resistance outperforms the AIM-9X with state-of-the-art IIR capabilities. The AIM-2000 boasts a 17km max range, a max speed of mach ~4 at sea level.
 
 AIM-160X SADM:
 The SADM is a long-range, kinetic interception and assault missile used in anti-aircraft roles. It is renowned for its cheap price, low weight, tiny size, and high speed profile. It is capable of near mach-3 flight, and can be fired in devastating barrages. Aside from this, it features a unique dual-mode seeker that primarily uses ARH, but switches to an IR fallback if the target is in range and still can be targeted to avoid complete loss of targets.
