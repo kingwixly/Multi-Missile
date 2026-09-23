@@ -13,12 +13,12 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.justj7780.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.2.1";
+        public const string PluginVersion = "1.3.0";
 
         // Changed every x.*.x
-        public const string VersionCodename = "MIDWEST_INDIGO";
-        /* you make me sad and second-guess myself
-        you can be so cold, midwest indigo */
+        public const string VersionCodename = "PALADIN_STRAIT";
+        /* i would swim the paladin strait
+        without any flotation */
 
         internal static ManualLogSource Log;
         private Harmony harmony;
