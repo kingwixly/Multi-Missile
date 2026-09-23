@@ -19,6 +19,7 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 - AIM-160X SADM (CUDA)
 - AM39E Exocet
 - ATMACA-AL
+- MBDA Brimstone
 - MBDA METEOR
 - IRIS-T
 
