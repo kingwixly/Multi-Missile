@@ -51,8 +51,8 @@ A legacy ARH missile, much larger in size than the Scrimtar and Scythe missiles,
 AIM-120D AMRAAM (reverse):
 Although less conventional, the Boscali defense ministry also created an aft-facing modified AIM-120D. This is primarily recommended for launch at low speeds for targets on the aircraft's rear, but can technically be launched fine by fast-flying aircraft due to the sheer acceleration of the AIM-120D.
 
-[CLASSIFIED]:
-TEXT REDACTED
+MBDA Brimstone:
+The MBDA Brimstone is a high-speed supersonic top-down lofting air-to-ground missile. It is used on helicopters and ground-attack vehicles alike at different speeds and is carried in groups of three. It has a range of approximately 17km.
 
 [CLASSIFIED]:
 TEXT REDACTED
@@ -93,7 +93,7 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
 The game devs tell me that MultiMissile's versioning scheme is confusing, and that I should use "Semitic Versioning" instead. So starting with MultiMissile version `א.א.נ`, package versions will use Hebrew Numerals.<br>
-Latest `1.2.0` - `א.ב.נ` <br>
+Latest `1.3.0` - `א.ג.נ` <br>
 <br>
 Special thanks:
 - JustJ (doing all of the C# and Unity work so I don't have to and not accepting pay)
