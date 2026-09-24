@@ -6,7 +6,7 @@ using BepInEx.Logging;
 using HarmonyLib;
 using UnityEngine;
 
-namespace JUSTJ7780.kingwixly.MultiMissilePatches
+namespace kingwixly.MultiMissilePatches
 {
     [HarmonyPatch(typeof(OpticalSeekerCruiseMissile), "PreTerminalMode")]
     internal static class SlamErTerminalRetargetPatch
@@ -84,7 +84,6 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
     }
 
     // 14000 too much 
-    // possibly some bad code here if your reading this future J its probably this causing issues
     [HarmonyPatch(typeof(OpticalSeekerCruiseMissile), "Seek")]
     [HarmonyPriority(Priority.Last)]
     internal static class SlamErBlindFireAcquisitionPatch

@@ -6,7 +6,7 @@ using BepInEx.Logging;
 using HarmonyLib;
 using UnityEngine;
 
-namespace JUSTJ7780.kingwixly.MultiMissilePatches
+namespace kingwixly.MultiMissilePatches
 {
     internal static class AircraftCruiseVlsState
     {

@@ -6,12 +6,12 @@ using BepInEx.Logging;
 using HarmonyLib;
 using UnityEngine;
 
-namespace JUSTJ7780.kingwixly.MultiMissilePatches
+namespace kingwixly.MultiMissilePatches
 {
     [BepInPlugin(PluginGuid, PluginName, PluginVersion)]
     public sealed class Plugin : BaseUnityPlugin
     {
-        public const string PluginGuid = "com.justj7780.kingwixly.multimissilepatches";
+        public const string PluginGuid = "com.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
         public const string PluginVersion = "1.3.0";
 
@@ -31,12 +31,6 @@ namespace JUSTJ7780.kingwixly.MultiMissilePatches
             Log.LogInfo("Multi Missile Patches " + PluginVersion + " \"" + VersionCodename + "\" loaded.");
         }
 
-        // Hello whoever you are looking into the code small disclaimer from me justj
-        // i wired up the entire mod for the author for free
-        // any models were provided to me by the auther under the confirmation all licenses were in order
-        // for any model issues please contact the github user that posted this mod
-        // for a more in depth disclaimer please decompile the nobp file
-        // thank you for reading and have a nice day :)
         
 
         private void OnDestroy()
