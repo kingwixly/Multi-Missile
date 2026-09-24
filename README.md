@@ -65,7 +65,7 @@ IRIS-T:
 The IRIS-T (also known as AIM-2000) is a premier, compact, high performance combat air-to-air missile. It performs highly, it is incredibly quick, and it is exceptionally maneuverable. Its flare resistance outperforms the AIM-9X with state-of-the-art IIR capabilities. The AIM-2000 boasts a 17km max range, a max speed of mach ~4 at sea level.
 
 AIM-160X SADM:
-The SADM is a long-range, kinetic interception and assault missile used in anti-aircraft roles. It is renowned for its cheap price, low weight, tiny size, and high speed profile. It is capable of near mach-3 flight, and can be fired in devastating barrages. Aside from this, it features a unique dual-mode seeker that primarily uses ARH, but switches to an IR fallback if the target is in range and still can be targeted to avoid complete loss of targets.
+The SADM is a long-range, kinetic interception and assault missile used in anti-aircraft roles. It is renowned for its cheap price, low weight, tiny size, and high speed profile. It is capable of near mach-3 flight, and can be fired in devastating barrages. Aside from this, it features a unique dual-mode seeker that primarily uses ARH, but switches to an IR fallback if the target is in range and still can be targeted to avoid complete loss of targets. * The dual-seeker mode is not in the latest bundles.
 
 GBU-38 JDAM (Mk82) 500lb:
 An older American 500lb (230kg) guided munition designed for mission use. Surprisingly, it is still relevant today.
