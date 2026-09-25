@@ -92,6 +92,20 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 - RayTheon(X) AGM-65 Maverick
 - Lockheed AGM-114 Hellfire
 
+# FAQ
+**Q**: Can you add (x) feature/weapon?<br>
+**A**: Suggestions and requests are handled via the GitHub [Issues page](https://github.com/kingwixly/Multi-Missile/issues). Use a corresponding template.<br>
+<br>
+**Q**: Are you going to update soon?<br>
+**A**: I have a very varying update schedule. If you are reading this before the thing (you'd know if it already happened), I am waiting on someone else to move forward before we update.<br>
+
+**Q**: Do I *have* to make a GitHub account to give you suggestions? Can I use the forum in the NO Discord?<br>
+**A**: Yes. Use GitHub. I will either ignore or forget about your idea.<br>
+<br>
+**Q**: Is your roadmap public?<br>
+**A**: A version of it, yes.<br>
+<br>
+<br>
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
 The game devs tell me that MultiMissile's versioning scheme is confusing, and that I should use "Semitic Versioning" instead. So starting with MultiMissile version `א.א.נ`, package versions will use Hebrew Numerals.<br>
 Latest `1.3.0` - `א.ג.נ` <br>
