@@ -6,7 +6,8 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 # Dependencies:
 [Blueprinter](https://github.com/nikkorap/NOBlueprinter-Releases/releases/latest) - Latest 
 
-## Currently contains:
+# Contents
+## Currently contains
 - AGM-84K SLAM-ER with ATA
 - 3M22 Zircon
 - 3N22 Zircon 250kt (event content)
@@ -23,7 +24,7 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 - MBDA METEOR
 - IRIS-T
 
-## Encyclopedia/InGame Definitions:
+## Encyclopedia/InGame Definitions
 
 StormX Shadow:
 The StormX Shadow is an advanced redesigned version of the older subsonic Storm Shadow cruise missile. It travels just past supersonic speeds and can be launched by many assault aircraft against ships and ground targets. It is extremely effective for armored targets and in large enough numbers can destroy ship formations. It is the longest-operating-range missile cruise available.
@@ -73,7 +74,7 @@ An older American 500lb (230kg) guided munition designed for mission use. Surpri
 R-27ER:
 An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's radar for SARH interception and assault. It's older but more cost-effective than missiles like the Scrimtar and AMRAAM.
 
-## Future Roadmap
+# Future "Roadmap"
 - Rafael Python 5
 - Matra R.550 Magic II
 - Hughes AIM-54 Phoenix
@@ -105,7 +106,8 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 **Q**: Is your roadmap public?<br>
 **A**: A version of it, yes.<br>
 <br>
-<br>
+
+# Versioning and thanks
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
 The game devs tell me that MultiMissile's versioning scheme is confusing, and that I should use "Semitic Versioning" instead. So starting with MultiMissile version `א.א.נ`, package versions will use Hebrew Numerals.<br>
 Latest `1.3.0` - `א.ג.נ` <br>
