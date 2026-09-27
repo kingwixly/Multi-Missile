@@ -13,7 +13,7 @@ namespace kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.4.0";
+        public const string PluginVersion = "1.4.1";
 
         // Changed every x.*.x
         public const string VersionCodename = "CENTER_MASS";
