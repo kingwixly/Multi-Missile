@@ -14,6 +14,7 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 - AIM-120D AMRAAM
 - AIM-120D AMRAAM Reverse Mount (event content)
 - AIM-9X Sidewinder
+- AIM-9Z Sidewinder II
 - AIM-9M Sidewinder
 - Vympel K-30M
 - StormX Shadow
@@ -56,8 +57,8 @@ Although less conventional, the Boscali defense ministry also created an aft-fac
 MBDA Brimstone:
 The MBDA Brimstone is a high-speed supersonic top-down lofting air-to-ground missile. It is used on helicopters and ground-attack vehicles alike at different speeds and is carried in groups of three. It has a range of approximately 17km.
 
-[CLASSIFIED]:
-TEXT REDACTED
+AIM-9Z Sidewinder II:
+The AIM-9Z Windwinder/Sidewinder II is the newest member of the Sidewinder family, trading the 9X's range for raw agility. A high-impulse motor, enlarged thrust-vectoring fins and a next-generation imaging seeker let it out-turn and out-sprint both the AIM-9X and IRIS-T, at the cost of a shorter 15km max range. Max speed is mach ~5 at sea level.
 
 MBDA METEOR:
 The MBDA METEOR is an ultra long-range advanced ARH air-to-air missile. Although previously nearly phased out six times in its lifetime, many nations had nothing to replace it with due to its stealthy, long-range design. It is still in use in the early 2080s, and it rivals the AMRAAM nearly exclusively because of its stealth.
