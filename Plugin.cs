@@ -13,12 +13,12 @@ namespace kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.3.1";
+        public const string PluginVersion = "1.4.0";
 
         // Changed every x.*.x
-        public const string VersionCodename = "PALADIN_STRAIT";
-        /* i would swim the paladin strait
-        without any flotation */
+        public const string VersionCodename = "CENTER_MASS";
+        /* they call it center mass
+        that part they aim for */
 
         internal static ManualLogSource Log;
         private Harmony harmony;
