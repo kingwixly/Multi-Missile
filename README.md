@@ -111,7 +111,7 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 # Versioning and thanks
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
 The game devs tell me that MultiMissile's versioning scheme is confusing, and that I should use "Semitic Versioning" instead. So starting with MultiMissile version `א.א.נ`, package versions will use Hebrew Numerals.<br>
-Latest `1.4.0` - `א.ד.נ` <br>
+Latest `1.4.2` - `א.ד.ב` <br>
 <br>
 Special thanks:
 - JustJ (doing all of the C# and Unity work so I don't have to and not accepting pay)
