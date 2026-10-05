@@ -24,6 +24,7 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 - MBDA Brimstone
 - MBDA METEOR
 - IRIS-T
+- Vympel/Artem R-27ER
 
 ## Encyclopedia/InGame Definitions
 
