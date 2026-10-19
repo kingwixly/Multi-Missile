@@ -115,6 +115,7 @@ The game devs tell me that MultiMissile's versioning scheme is confusing, and th
 Latest `1.4.2` - `א.ד.ב` <br>
 <br>
 Special thanks:
+- Solar (wiring fins for SDB and SDB II)
 - Nikkorap (made Blueprinter and is a cool person)
 - 7ep3s (idk i caused him to go mentally insane like twice which is more than i shouldve so i think im gonna put him here | dani makes 7ep3s mad counter: 2)
 - Aryx (inspired like all of my mods. except for the idea and models of multimissile, multimissile is older than aryx weapon pack i swear)
