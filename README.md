@@ -25,6 +25,11 @@ Join the [OnPoint Discord](https://discord.gg/bnxwAeXR8y)!
 - MBDA METEOR
 - IRIS-T
 - Vympel/Artem R-27ER
+- Boeing GBU-39/B
+- Raytheon GBU-53/B
+- GBU-38 JDAM
+- GBU-31 JDAM
+- GBU-32 JDAM
 
 ## Encyclopedia/InGame Definitions
 
@@ -55,6 +60,12 @@ A legacy ARH missile, much larger in size than the Scrimtar and Scythe missiles,
 AIM-120D AMRAAM (reverse):
 Although less conventional, the Boscali defense ministry also created an aft-facing modified AIM-120D. This is primarily recommended for launch at low speeds for targets on the aircraft's rear, but can technically be launched fine by fast-flying aircraft due to the sheer acceleration of the AIM-120D.
 
+GBU-39/B:
+The GBU-39/B is an advanced air-launched precision guided munition. It is typically carried in salvos of four, and has a payload of 129kg or 285lbs.
+
+GBU-53/B:
+The GBU-53/B StormBreaker (also known as the Small Diameter Bomb II/SDB II) is an advanced, anti-moving target precision guided munition. It uses the same mounting system as its cheaper penetrating counterpart, is more expensive, and has a shorter range, but allows advanced targetting of ground targets rather than the unofficial support the original SDB provides.
+
 MBDA Brimstone:
 The MBDA Brimstone is a high-speed supersonic top-down lofting air-to-ground missile. It is used on helicopters and ground-attack vehicles alike at different speeds and is carried in groups of three. It has a range of approximately 17km.
 
@@ -72,6 +83,12 @@ The SADM is a long-range, kinetic interception and assault missile used in anti-
 
 GBU-38 JDAM (Mk82) 500lb:
 An older American 500lb (230kg) guided munition designed for mission use. Surprisingly, it is still relevant today.
+
+GBU-31 JDAM:
+An older, colossal 2,036lb (925.4kg) general purpose guided munition designed for large, catastrophic, and precise military strikes. This particular variant utilizes the Mk 84 Mod 6 2000lb thermally protected warhead and the GBU-31(V)2/B Guidance Bomb Kit.
+
+GBU-32 JDAM:
+The GBU-32/B is a member of the JDAM family and a medium-sized 1,031lb (468kg) guided munition. It is a sister munition of the GBU-31, and is nearly identical apart from a smaller warhead and kit.
 
 R-27ER:
 An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's radar for SARH interception and assault. It's older but more cost-effective than missiles like the Scrimtar and AMRAAM.
@@ -112,7 +129,7 @@ An older, medium-to-BVR-range Russian & Chinese missile utilizing the aircraft's
 # Versioning and thanks
 ### Notice: Multi-Missile will now use SemVer (semitic versioning)
 The game devs tell me that MultiMissile's versioning scheme is confusing, and that I should use "Semitic Versioning" instead. So starting with MultiMissile version `א.א.נ`, package versions will use Hebrew Numerals.<br>
-Latest `1.4.2` - `א.ד.ב` <br>
+Latest `1.5.0` - `א.ה.נ` <br>
 <br>
 Special thanks:
 - Solar (wiring fins for SDB and SDB II)
