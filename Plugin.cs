@@ -13,12 +13,12 @@ namespace kingwixly.MultiMissilePatches
     {
         public const string PluginGuid = "com.kingwixly.multimissilepatches";
         public const string PluginName = "Multi Missile Add on Pack";
-        public const string PluginVersion = "1.4.1";
+        public const string PluginVersion = "1.5.0";
 
         // Changed every x.*.x
-        public const string VersionCodename = "CENTER_MASS";
-        /* they call it center mass
-        that part they aim for */
+        public const string VersionCodename = "RAW_FEAR";
+        /* raw fear moves me
+        sounds of empty uzis */
 
         internal static ManualLogSource Log;
         private Harmony harmony;
