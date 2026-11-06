@@ -134,7 +134,7 @@ Latest `1.5.0` - `א.ה.נ` <br>
 Special thanks:
 - Solar (wiring fins for SDB and SDB II)
 - Nikkorap (made Blueprinter and is a cool person)
-- 7ep3s (idk i caused him to go mentally insane like twice which is more than i shouldve so i think im gonna put him here | dani makes 7ep3s mad counter: 2)
+- 7ep3s (idk i caused him to go mentally insane like twice which is more than i shouldve so i think im gonna put him here | dani makes 7ep3s mad counter: 3)
 - Aryx (inspired like all of my mods. except for the idea and models of multimissile, multimissile is older than aryx weapon pack i swear)
 - Roxx (mental support completely unrelated to multimissile from when i was trying to learn unity to do things myself)
 - MinecrackTyler (existing)
